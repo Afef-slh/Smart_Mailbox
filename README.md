@@ -20,8 +20,6 @@ Smart MailBox
 
 
 Description:
-194 / 5000
-Résultats de traduction
 an intelligent mailbox which detects the receipt of a letter by sending a message to an android mobile application, 
 Also we can open this box with a code entered on the keyboard 
 
